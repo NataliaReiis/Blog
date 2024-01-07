@@ -4,6 +4,7 @@ import { MdDelete } from "react-icons/md";
 
 import { Link } from "react-router-dom";
 import Menu from '../components/Menu'
+
 export default function Single() {
   return (
     <div className="single">

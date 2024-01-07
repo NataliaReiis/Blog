@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
-import Write from "./pages/Home";
+import Write from "./pages/Write";
 import Single from "./pages/Single";
 
 const Layout = () => {
