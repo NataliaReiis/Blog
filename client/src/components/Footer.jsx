@@ -1,8 +1,11 @@
 
 export default function Footer(){
     return(
-        <>
-        Footer
-        </>
+        <footer>
+            <h1>LOGO</h1>
+            <span>
+                Natália Reis in <b>React.js</b>
+            </span>
+        </footer>
     )
 }
